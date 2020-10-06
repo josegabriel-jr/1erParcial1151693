@@ -1,6 +1,18 @@
 nav{
-
-
 background-color: blueviolet;
 
+}
+
+#covidL{
+text-align: center;
+}
+
+#coraI{
+    width: 80%;
+
+}
+
+#pulm{
+    width: 50%;
+    height: 50%;
 }
